@@ -57,7 +57,7 @@ To get started with this project:
 3.**Run the Notebooks**:
 - 1. Start Jupyter Notebook:
 ```bash
-jupyter notebook
+jupyter notebook ```
 
 2. Open and run the notebook "Project_Big_data_Real_Fake_face_image_detection.ipynb" 
 
