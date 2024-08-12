@@ -45,14 +45,14 @@ To get started with this project:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Real_vs_Fake_Face_Detection.git
-   cd Real_vs_Fake_Face_Detection
+   cd Real_vs_Fake_Face_Detection ```
 
 2.**Set Up the Environment**:
 
     - 1. **Make sure you have Python installed along with Jupyter Notebook.**
     - 2. **Install the necessary dependencies.** You can create a virtual environment and install the packages via pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt ```
 
 3.**Run the Notebooks**:
 - 1. Start Jupyter Notebook:
