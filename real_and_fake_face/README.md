@@ -1,6 +1,6 @@
 # Real vs. Fake Face Image Detection
 
-This project demonstrates the application of deep learning models for detecting whether an image of a face is real or fake. The repository includes several Jupyter notebooks that showcase different neural network architectures and their application to this task.
+This project demonstrates the application of deep learning models for detecting whether an image of a face is real or fake. The repository includes several Jupyter notebooks that showcase different neural network architectures and their application to this task. Last worked on 4/25/2023
 
 ## Project Structure
 
