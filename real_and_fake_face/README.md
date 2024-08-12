@@ -6,16 +6,17 @@ This project demonstrates the application of deep learning models for detecting 
 
 /Real_vs_Fake_Face_Detection
 │
-├── /Test/ # Test dataset directory
-├── /Train/ # Training dataset directory
-├── /Valid/ # Validation dataset directory
+├── /Test/                        # Test dataset directory
+├── /Train/                       # Training dataset directory
+├── /Valid/                       # Validation dataset directory
 │
-├── Efficient_net_demo.ipynb # Jupyter notebook demonstrating EfficientNet model
-├── Project_Big_data_Real_Fake_face_image_detection.ipynb # Main project notebook for real vs. fake face detection
-├── Resnet_demo.ipynb # Jupyter notebook demonstrating ResNet model
-├── VGG16.ipynb # Jupyter notebook demonstrating VGG16 model
+├── Efficient_net_demo.ipynb      # Jupyter notebook demonstrating EfficientNet model
+├── Project_Big_data_Real_Fake_face_image_detection.ipynb  # Main project notebook for real vs. fake face detection
+├── Resnet_demo.ipynb             # Jupyter notebook demonstrating ResNet model
+├── VGG16.ipynb                   # Jupyter notebook demonstrating VGG16 model
 │
-└── README.md # Project documentation (this file)
+└── README.md                     # Project documentation (this file)
+
 
 ### Notebooks Overview
 
@@ -32,7 +33,11 @@ This project demonstrates the application of deep learning models for detecting 
 - **/Train/**: Contains the  sample training dataset used to train the models.
 - **/Valid/**: Contains the Sample validation dataset used to tune the models and select the best one.
 - **/Test/**: Contains the sample test dataset used for final evaluation of the models.
-## **NOTE:** Dataset uploaded hase only sample one .. THe dataset used while working on this project is large couldn't upload here. Will give the reference link for the same
+
+## **NOTE:** 
+The dataset uploaded here is only a sample. The actual dataset used for this project is large and couldn't be uploaded. A reference link to the full dataset will be provided.
+
+
 ### Getting Started
 
 To get started with this project:
@@ -48,4 +53,5 @@ To get started with this project:
     - 2. **Install the necessary dependencies.** You can create a virtual environment and install the packages via pip:
    ```bash
    pip install -r requirements.txt
+3.
 
