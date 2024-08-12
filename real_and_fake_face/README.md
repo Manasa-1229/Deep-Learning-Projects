@@ -17,6 +17,7 @@ This project demonstrates the application of deep learning models for detecting 
 │
 └── README.md                     # Project documentation (this file)
 
+/Real\_vs\_Fake\_Face\_Detection│├── /Test/ # Test dataset directory├── /Train/ # Training dataset directory├── /Valid/ # Validation dataset directory│├── Efficient\_net\_demo.ipynb # Jupyter notebook demonstrating EfficientNet model├── Project\_Big\_data\_Real\_Fake\_face\_image\_detection.ipynb # Main project notebook for real vs. fake face detection├── Resnet\_demo.ipynb # Jupyter notebook demonstrating ResNet model├── VGG16.ipynb # Jupyter notebook demonstrating VGG16 model│└── README.md # Project documentation (this file)
 
 ### Notebooks Overview
 
