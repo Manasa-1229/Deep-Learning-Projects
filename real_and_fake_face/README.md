@@ -50,19 +50,19 @@ To get started with this project:
 
 2.**Set Up the Environment**:
 
-    - 1. **Make sure you have Python installed along with Jupyter Notebook.**
-    - 2. **Install the necessary dependencies.** You can create a virtual environment and install the packages via pip:
+- Make sure you have Python installed along with Jupyter Notebook.
+- Install the necessary dependencies.
    ```bash
    pip install -r requirements.txt
    ```
 
 3.**Run the Notebooks**:
-- 1. Start Jupyter Notebook:
+- Start Jupyter Notebook:
 ```bash
 jupyter notebook
 ```
 
-2. Open and run the notebook "Project_Big_data_Real_Fake_face_image_detection.ipynb" 
+- Open and run the notebook "Project_Big_data_Real_Fake_face_image_detection.ipynb" 
 
 4. **Results and Performance**:
 - Each notebook contains the results obtained from running the corresponding model on the real vs. fake face detection task.
