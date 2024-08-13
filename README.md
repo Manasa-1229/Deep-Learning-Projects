@@ -56,3 +56,10 @@ This project focuses on distinguishing between real and fake facial images using
 - **Key Features**: Data preprocessing, CNN architectures, model training, and evaluation.
 
 
+## ⚠️ Note
+
+Please be aware that these projects were developed over the last two years and may not reflect the latest advancements in deep learning. As such, present versions of the code might not yield the same results due to changes in library versions or deprecated functions. It is also possible that some code or library imports might generate errors when run in newer environments.
+
+---
+
+Feel free to explore each project and contribute to the repository if you have any suggestions or improvements.
