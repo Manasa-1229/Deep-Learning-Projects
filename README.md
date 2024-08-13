@@ -5,7 +5,7 @@ Welcome to the **Deep Learning Projects** repository! This repository contains a
 ## Table of Contents
 
 1. [American Sign Language Recognition](https://github.com/Manasa-1229/Deep-Learning-Projects/tree/main/American_Sign_Language)
-2. [Credit Card Fraud Detection](#credit-card-fraud-detection)
+2. [Credit Card Fraud Detection](https://github.com/Manasa-1229/Deep-Learning-Projects/tree/main/Credit_card_Fraud)
 3. [Emotion Detection](#emotion-detection)
 4. [House Price Prediction](#house-price-prediction)
 5. [LSTM for Text and Speech](#lstm-for-text-and-speech)
