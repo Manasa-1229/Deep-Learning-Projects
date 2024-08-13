@@ -3,19 +3,20 @@
 This project explores the use of Long Short-Term Memory (LSTM) networks for two key tasks: speech-to-text conversion and story generation. The project demonstrates how LSTMs can be effectively used to process sequential data and generate meaningful text.
 
 ## Project Structure
+
 /Speech_to_Text_and_Story_Generation
 │
-├── pycache/ # Cached Python files
+├── pycache/                                              # Cached Python files
 │
-├── With_Openai.ipynb # Jupyter notebook interacting with OpenAI API
-├── cleaned_merged_fairy_tales_without_eos.txt # Dataset used for training LSTM models
-├── notebook_LSTM.ipynb # Jupyter notebook demonstrating LSTM model training
-├── readme.md # Project documentation (this file)
-├── speechToText.py # Python script for speech-to-text conversion using LSTM
-├── storyteller_lstm.pkl # Saved LSTM model for story generation
-├── storyteller_lstm_1.pkl # Alternate version of the saved LSTM model
-├── storyteller_lstm_3.pkl # Another version of the saved LSTM model
-├── text_to_speech.py # Python script for text-to-speech conversion
+├── With_Openai.ipynb                                     # Jupyter notebook interacting with OpenAI API
+├── cleaned_merged_fairy_tales_without_eos.txt            # Dataset used for training LSTM models
+├── notebook_LSTM.ipynb                                   # Jupyter notebook demonstrating LSTM model training
+├── readme.md                                             # Project documentation (this file)
+├── speechToText.py                                       # Python script for speech-to-text conversion using LSTM
+├── storyteller_lstm.pkl                                  # Saved LSTM model for story generation
+├── storyteller_lstm_1.pkl                                # Alternate version of the saved LSTM model
+├── storyteller_lstm_3.pkl                                # Another version of the saved LSTM model
+├── text_to_speech.py                                     # Python script for text-to-speech conversion
 
 
 
