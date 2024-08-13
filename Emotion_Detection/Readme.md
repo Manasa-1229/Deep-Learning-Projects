@@ -3,8 +3,7 @@
 This repository contains the files and scripts for the Emotion Detection project. The goal of this project is to develop a machine learning model capable of detecting emotions from facial images using deep learning techniques.
 
 ## Project Structure
-
-/Emotion_Detection_Project
+/ Emotion_Detection_Project
 │
 ├── Project_Big_data_Emotion_detection.ipynb # Main Jupyter notebook for the emotion detection project
 ├── Readme.md # Project documentation (this file)
