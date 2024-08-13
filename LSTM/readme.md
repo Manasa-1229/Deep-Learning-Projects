@@ -1,6 +1,18 @@
-# Speech-to-Text and Story Generation using LSTM Networks
+### LSTM for Text and Speech Processing
 
-This project explores the use of Long Short-Term Memory (LSTM) networks for two key tasks: speech-to-text conversion and story generation. The project demonstrates how LSTMs can be effectively used to process sequential data and generate meaningful text.
+This project explores the application of Long Short-Term Memory (LSTM) networks for two critical tasks: **speech-to-text conversion** and **story generation**. LSTMs are a type of recurrent neural network (RNN) particularly well-suited for processing and generating sequences of data, making them ideal for tasks involving text and speech.
+
+#### Project Overview
+
+In this project, LSTMs are used to:
+
+1. **Speech-to-Text Conversion**: Convert spoken language into written text by processing sequential audio data and predicting the corresponding text. This task leverages LSTM’s ability to capture the temporal dependencies in audio signals.
+
+2. **Story Generation**: Generate coherent and contextually relevant stories based on a given prompt. LSTMs process the input text and generate new text that follows the learned patterns and structures from the training data.
+
+#### Computational Constraints
+
+Due to computational constraints, only **0.05%** of the available data was used for model training and evaluation. While this limited the overall dataset size, the project still demonstrates the effectiveness of LSTM networks in handling sequential data and producing meaningful outputs in both speech and text domains.
 
 ## Project Structure
 /Speech_to_Text_and_Story_Generation  
