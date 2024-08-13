@@ -25,19 +25,23 @@ This project explores the use of Long Short-Term Memory (LSTM) networks for two 
    ```bash
    git clone https://github.com/yourusername/Speech_to_Text_and_Story_Generation.git
    cd Speech_to_Text_and_Story_Generation
+   ```
+   
 
 2. **Set Up the Environment**:
 
 - Ensure you have Python installed.
 - Install the necessary dependencies using requirements.txt (if available):
-``` bash
-pip install -r requirements.txt
+   ``` bash
+   pip install -r requirements.txt
+   ```
 
 3. **Run the Jupyter Notebooks**:
 
 - Start Jupyter Notebook:
 ``` bash
 jupyter notebook
+```
 
 - Open and run the notebooks (.ipynb files) in the desired order to reproduce the results.
 
