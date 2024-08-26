@@ -51,6 +51,4 @@ The dataset used in this project is the Ames Housing dataset, which provides com
 
 Special thanks to the creators of the Ames Housing dataset and the authors of the machine learning libraries utilized in this project.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
